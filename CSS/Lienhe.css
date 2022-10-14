@@ -1,0 +1,13 @@
+article{
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: gray;
+}
+.form{
+    width: 50%;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: left;
+}
+

@@ -1,0 +1,23 @@
+.column{
+    width: 350px;
+    height: 350px;
+    float: left;
+    margin: 20px;
+}
+.tintuc{
+    width: 350px;
+    height: 180x;
+    background-color:   ghostwhite;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+}
+#Tintuc{
+    width: 1200px;
+    margin: 0 auto;
+}
+.tintuc a{
+    color: black;
+    font-weight: bold;
+    text-decoration-line: none;
+}
